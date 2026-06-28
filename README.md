@@ -41,3 +41,6 @@ python3 -m tests.test_formularios
 🚧 En desarrollo.
 
 Este proyecto forma parte de un proceso de aprendizaje y evolucionará incorporando nuevas funcionalidades y mejores prácticas de desarrollo.
+
+## Prueba github
+Primera edición realizada directamente desde GitHub.
